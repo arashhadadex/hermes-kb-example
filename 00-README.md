@@ -2,7 +2,7 @@
 
 This folder is the business knowledge for **PulseGrid**, a fictional uptime-monitoring service created as the example for the Hermes Agent + Telegram bot tutorial on [datatodeploy.com](https://datatodeploy.com). All facts in these files are invented for demonstration — replace them with your own business before using this as a template.
 
-The Telegram bot's free-text answers are produced by Hermes Agent, which is given this folder as its knowledge base (see 03-telegram-bot.md). Read the relevant file before answering anything about PulseGrid.
+The Telegram bot's free-text answers are produced by Hermes Agent, which is given this folder as its knowledge base (see 03-telegram-bot.md). Read the relevant file before answering anything about PulseGrid. soul.md sets your personality and boundaries — follow it on every reply.
 
 ## Files
 | File | Read it when the question is about |
@@ -15,6 +15,7 @@ The Telegram bot's free-text answers are produced by Hermes Agent, which is give
 | 06-brand-voice-and-rules.md | Tone of voice and hard rules (claims, disclaimers) |
 | 07-roadmap-planned-features.md | Ideas and planned features (NOT live) |
 | 08-faq.md | Short answers to common questions |
+| soul.md | Always — who the assistant is and how to behave |
 
 ## Rules for the agent
 1. Answer only from these files. If something is missing, say you don't know and ask. Never invent prices, limits, features or statistics.

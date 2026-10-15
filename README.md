@@ -19,6 +19,7 @@ Nine markdown files, numbered in the order the agent should read them:
 | [06-brand-voice-and-rules.md](06-brand-voice-and-rules.md) | Tone of voice and hard rules (claims and disclaimers) |
 | [07-roadmap-planned-features.md](07-roadmap-planned-features.md) | Ideas that are explicitly **not live** |
 | [08-faq.md](08-faq.md) | Short answers the agent can reuse |
+| [soul.md](soul.md) | Who the assistant is: identity, personality, boundaries |
 
 `README.md` (this file) is for humans browsing the repository. `00-README.md` is the file actually given to the agent.
 
@@ -31,7 +32,7 @@ Nine markdown files, numbered in the order the agent should read them:
 ## Use it with your own business
 
 1. Copy the folder.
-2. Replace the PulseGrid facts and the fictional persona with your own. Keep the file names and the four rules in `00-README.md` — they are what keep the agent from making things up:
+2. Replace the PulseGrid facts and the fictional persona with your own — the example assistant is named "Pulse" in `soul.md`. Keep the file names and the four rules in `00-README.md` — they are what keep the agent from making things up:
    - answer only from these files;
    - roadmap items are never described as live;
    - no unmeasured or absolute claims;
