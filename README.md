@@ -1,6 +1,6 @@
 # Hermes Agent knowledge-base example (PulseGrid)
 
-A complete, ready-to-copy **business knowledge base** for a Telegram bot assistant built with Hermes Agent. This is the example folder used in the Hermes Agent + Telegram bot tutorial on [datatodeploy.com](https://datatodeploy.com).
+A complete, ready-to-copy **business knowledge base** for a Telegram bot assistant built with Hermes Agent. This is the example folder used in the Hermes Agent + Telegram bot tutorial on [datatodeploy.com](https://datatodeploy.com/hermes-agent-telegram-bot-self-hosted/).
 
 **PulseGrid is a fictional uptime-monitoring service** invented for the tutorial. Every price, limit and command in these files is made up, the domains use the reserved `example.com` space and the bot handle is fake — nothing here points at a real product.
 
@@ -38,7 +38,7 @@ Nine markdown files, numbered in the order the agent should read them:
    - no unmeasured or absolute claims;
    - if the owner contradicts a file in chat, trust the owner and suggest updating the file.
 3. Anything you have not decided yet: leave it out of the files entirely instead of filling it with guesses. The rules above make the agent say "I don't know" instead.
-4. Follow the tutorial on [datatodeploy.com](https://datatodeploy.com) to connect the folder to your Hermes Agent Telegram bot.
+4. Follow the tutorial on [datatodeploy.com](https://datatodeploy.com/hermes-agent-telegram-bot-self-hosted/) to connect the folder to your Hermes Agent Telegram bot.
 
 ## Disclaimer
 
